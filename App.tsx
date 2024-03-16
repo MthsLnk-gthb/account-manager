@@ -1,13 +1,9 @@
+import StackComponent from "@/routes/stack";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Account Manager</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+  return <StackComponent/>
 }
 
 const styles = StyleSheet.create({
