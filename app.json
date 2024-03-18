@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "account-manager",
-    "slug": "account-manager",
+    "name": "lista-de-convidados",
+    "slug": "lista-de-convidados",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
